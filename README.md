@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Meraj Ali</h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Aspiring+Learner;Computer+System+Undergraduate;Front-End+Developer;JS+%7C+React+JS+%7C+Firebase;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Aspiring+Learner;Computer+System+Undergraduate;Front-End+Developer;JS+%7C+React+JS+%7C+Firebase" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <em>
     This is me <b>Meraj Ali</b> <b>Computer System</b> undergraduate from <a href="https://duet.edu.pk/"> <b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
-    An aspiring <b>Front-End Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <a href="https://techverzsolutions.com/"><b> Co-Founder of Techverz Development (Student Based Startup) </b></a> 
+    An aspiring <b>Front-End Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <a href="https://techverzsolutions.com/" target="_blank"><b> Co-Founder of Techverz Development (Student Based Startup) </b></a> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
@@ -36,7 +36,7 @@
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
+<!-- <code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code> -->
  <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
  <code> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="30"/> </a> </code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
@@ -55,7 +55,7 @@
    <br>
 <code><a href="https://nodejs.org/en" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
+<!-- <code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code> -->
 <code><a href="#" ><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
 <code><a href="#"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a></code>
 
