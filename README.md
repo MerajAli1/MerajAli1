@@ -93,7 +93,7 @@
   <!-- <a href="https://twitter.com/Ratheshan_03">
     <img align="left" alt="Meraj Ali| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a> -->
-  <a href="https://www.instagram.com/mjmeraj10/">
+  <a href="https://www.instagram.com/merajalyyy/">
     <img align="left" alt="Meraj Ali | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://www.facebook.com/profile.php?id=100008624371305">
