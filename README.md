@@ -1,106 +1,94 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Meraj Ali</h1>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Aspiring+Learner;Computer+System+Undergraduate;Front-End+Developer;JS+%7C+React+JS+%7C+Firebase" alt="Typing SVG" /></a>
+  <a href="https://merajali.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8B7BFF&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Computer+Systems+Engineer;Team+Lead+%40+UniChalo+(live+on+Google+Play);React+%7C+Node.js+%7C+PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <em>
-    This is me <b>Meraj Ali</b> <b>Computer System</b> undergraduate from <a href="https://duet.edu.pk/"> <b>Dawood University of Engineering and Technology</b>, Pakistan</a>.
-    An aspiring <b>Front-End Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <a href="https://techverzsolutions.com/" target="_blank"><b> Co-Founder of Techverz Development (Student Based Startup) </b></a> 
-  <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
+  <a href="https://merajali.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-merajali.netlify.app-8B7BFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/merajali1/"><img src="https://img.shields.io/badge/LinkedIn-merajali1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:merajali45425@gmail.com"><img src="https://img.shields.io/badge/Email-merajali45425%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3>Little facts about me 🧑</h3>
-
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Front-End Web Development ,and learning MERN Stack Development.
-- 👯 I’m looking to collaborate with Front-End Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
-<br>
+<p align="center">
+  <b>MERN Stack Developer</b> and <b>Computer Systems Engineer</b> from Karachi, Pakistan 🇵🇰<br>
+  B.E. Computer Systems Engineering, <a href="https://duet.edu.pk/">Dawood University of Engineering &amp; Technology</a> · CGPA 3.71<br>
+  🟢 <b>Open to new opportunities</b>
+</p>
 
 ---
 
-<details>
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
+### 🧑‍💻 About me
 
-
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<!-- <code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code> -->
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
- <code> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-
-  
-</details>
-<br>
-
-<details>
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
-<code><a href="https://nodejs.org/en" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code>
-<!-- <code><a href="https://www.mongodb.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a></code> -->
-<code><a href="#" ><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
-<code><a href="#"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a></code>
-
-</details>
-<br>
+- 🚀 I build **full-stack web apps** end to end with **React, Next.js, Node.js, Express, PostgreSQL, Prisma and MongoDB**.
+- 💼 **3 industry roles** so far: Quanrio, FMZ Fire Safety Engineering and Softech Digital Group.
+- 🎓 Led the team behind **UniChalo**, my final-year project, which is now **live on Google Play**.
+- 🔐 Currently building **Scenzz**, a trust-first social planning app with NIC and selfie verification.
+- 🏏 Fun fact: I love sports, especially cricket.
 
 ---
 
-<!-- <details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
+### 💼 Experience
+
+| Role | Company | Period |
+| :-- | :-- | :-- |
+| **MERN Stack Developer Intern** | Quanrio, Karachi | Jul 2026 – Oct 2026 |
+| **MERN Stack Developer** | FMZ Fire Safety Engineering, Karachi | Jun 2025 – Feb 2026 |
+| **Frontend Developer Intern** | Softech Digital Group, Karachi | Apr 2025 – Jun 2025 |
+
+- **Quanrio:** Architected and developed production-ready full-stack features across the MERN ecosystem.
+- **FMZ Fire Safety:** Built a full-stack web application end to end with Node.js, Express, PostgreSQL, Prisma, React and MUI.
+- **Softech Digital Group:** Built and optimised scalable web applications with React and Next.js.
+
+---
+
+### 🌟 Featured projects
+
+| Project | What it is | Built with |
+| :-- | :-- | :-- |
+| 🎓 **[UniChalo](https://play.google.com/store/apps/details?id=com.unichalo.app)** | AI-powered social & education app connecting students with universities. I led the team and the frontend through a 14-day closed beta to a **Google Play** launch. | React · State management |
+| 🛡️ **Scenzz** *(coming soon to Google Play)* | Personality-matched social planning app for Pakistan, with rotating JWT auth and NIC/selfie verification via AWS Rekognition plus admin review. | JWT · AWS Rekognition |
+| 🍽️ **[Restaurant POS](https://possystemz.netlify.app/)** | Point-of-sale system for menus, order processing and admin access. | React |
+| 🧶 **[Knotsy Knot](https://www.knotsyknot.com/)** | Serverless e-commerce store with a multi-item cart. | Firebase Firestore · JavaScript |
+| 🔥 **[FMZ Fire Safety](https://fmzfiresafety.com/)** | Corporate website for a fire-safety engineering firm. | Frontend · Responsive UI |
+| 🌍 **[OUF Global](https://oufglobal.com/)** | Website for a Pakistan-based import & export company. | Bootstrap · jQuery |
+
+---
+
+### 🛠️ Tech stack
+
 <p align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Ratheshan03">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,materialui&perline=8" alt="Frontend" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,firebase&perline=8" alt="Backend and databases" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode&perline=8" alt="Tools" />
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Ratheshan03" /></p>
-</details> -->
 
-<!-- --- -->
+| Area | Tools |
+| :-- | :-- |
+| **Frontend** | HTML, CSS, JavaScript, React, Next.js |
+| **Backend** | Node.js, Express, REST APIs, Postman |
+| **Databases** | PostgreSQL, MongoDB, Prisma, Firebase |
+| **UI** | Tailwind CSS, MUI, Bootstrap |
+| **DevOps** | Docker, Git, GitHub |
 
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/meraj-ali-888387253/">
-   <img align="left" alt=" Meraj Ali | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:merajali45425@gmail.com">
-    <img align="left" alt="Meraj Ali | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <!-- <a href="https://twitter.com/Ratheshan_03">
-    <img align="left" alt="Meraj Ali| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a> -->
-  <a href="https://www.instagram.com/merajalyyy/">
-    <img align="left" alt="Meraj Ali | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=100008624371305">
-    <img align="left" alt="Meraj Ali| Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://github.com/MerajAli1">
-    <img align="left" alt="Meraj Ali| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  
+---
+
+### 📜 Certifications
+
+- **Full Stack Web Engineering** · Jawan Pakistan
+- **Project Management Foundations** · Google
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/merajali1/"><img alt="LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a>&nbsp;&nbsp;
+  <a href="mailto:merajali45425@gmail.com"><img alt="Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>&nbsp;&nbsp;
+  <a href="https://merajali.netlify.app/"><img alt="Portfolio" width="28px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/MerajAli1"><img alt="GitHub" width="28px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" /></a>
+</p>
+
+<p align="center"><b><i>"Always work hard and trust the process."</i></b></p>
